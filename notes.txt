@@ -1,0 +1,1 @@
+1. add "start": "lite-server" to scripts in package.json
